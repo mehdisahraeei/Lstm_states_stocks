@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project implements a Long Short-Term Memory (LSTM) neural network for **predicting financial market trends** using raw historical price data. It is written in Python and designed to be **expandable**, **scalable**, and suitable for **future trading automation**.
 
-### * While financial markets are far too complex to rely on a single predictive tool for consistent trading success, projects like this can offer **helpful insights** and act as a **confirmation layer** when combined with proper technical analysis and market understanding.
+# * While financial markets are far too complex to rely on a single predictive tool for consistent trading success, projects like this can offer **helpful insights** and act as a **confirmation layer** when combined with proper technical analysis and market understanding.
 
 ## 🚀 Features
 - ✅ Trains on raw OHLC (Open, High, Low, Close) price data  
