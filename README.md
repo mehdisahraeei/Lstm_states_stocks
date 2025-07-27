@@ -8,7 +8,7 @@ This project implements a Long Short-Term Memory (LSTM) neural network for **pre
 - ✅ Uses LSTM to learn temporal price patterns  
 - ✅ Modular structure for easy expansion  
 - ✅ Designed for integration into automated trading systems  
-- 🔄 *In progress*: Enhancing prediction logic using advanced **technical analysis**, including **RTM (Read The Market)** and **ICT Smart Money** concepts
+- 🔄 *In progress*: Enhancing prediction logic using advanced **technical analysis**, including **RTM** and **ICT, Smart Money** concepts
 
 ## 🛠️ Technologies Used
 - Python  
