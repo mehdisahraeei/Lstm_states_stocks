@@ -15,3 +15,17 @@ This project implements a Long Short-Term Memory (LSTM) neural network for **pre
 - TensorFlow / Keras  
 - Pandas, NumPy  
 - Matplotlib
+
+
+
+-----------------
+## 📈 Project Status
+
+- **Started:** February 2023  
+- **Current Phase:** Ongoing development and experimentation  
+
+### 🎯 Long-Term Goal
+To build a practical tool that can be used for **trend confirmation** or **trade prediction**, especially when combined with **technical analysis methods** such as RTM and ICT Smart Money.
+
+### 🔄 Current Focus
+Still in development 
